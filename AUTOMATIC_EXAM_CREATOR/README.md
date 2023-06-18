@@ -1,14 +1,14 @@
-# Automatic Exam Generator
+# Automatic Exam Creator
 
-Welcome to the documentation of the **Automatic Exam Generator** project! This project aims to simplify the process of creating multiple-choice exams automatically. With this tool, you can generate custom exams on any desired topic, allowing you to efficiently assess knowledge and conduct evaluations.
+Welcome to the documentation of the **Automatic Exam Creator** project! This project aims to simplify the process of creating multiple-choice exams automatically. With this tool, you can generate custom exams on any desired topic, allowing you to efficiently assess knowledge and conduct evaluations.
 
 ## About
 
-The **Automatic Exam Generator** is a Python project that utilizes the power of OpenAI's text generation capabilities. By providing the topic and number of questions, the program generates a multiple-choice exam tailored to your specifications. This tool is particularly useful for educators, trainers, or anyone needing to assess knowledge quickly and accurately.
+The **Automatic Exam Creator** is a Python project that utilizes the power of OpenAI's text generation capabilities. By providing the topic and number of questions, the program generates a multiple-choice exam tailored to your specifications. This tool is particularly useful for educators, trainers, or anyone needing to assess knowledge quickly and accurately.
 
 ## Installation
 
-To use the **Automatic Exam Generator**, follow these steps:
+To use the **Automatic Exam Creator**, follow these steps:
 
 1. Install the necessary dependencies:
 
@@ -42,6 +42,6 @@ $ pip install -r requirements.txt
 
 ## Features
 
-- **Efficiency**: The Automatic Exam Generator allows you to create exams quickly and easily, saving valuable time and effort.
+- **Efficiency**: The Automatic Exam Creator allows you to create exams quickly and easily, saving valuable time and effort.
 - **Customization**: You can specify the topic and number of questions, ensuring that the exam aligns with your specific requirements.
 - **Scalability**: Generate exams of any size, from a handful of questions to hundreds or more.
