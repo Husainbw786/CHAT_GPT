@@ -1,4 +1,4 @@
-# Project Name
+# Chat-Bot-With-Fine-Tuning
 
 ## About
 This project provides a walkthrough of how to fine-tune a GPT model, specifically the text-babbage model, using a custom dataset. The objective is to create a chatbot capable of answering questions based on a given prompt. By leveraging the power of the OpenAI API, this project enables users to train their own conversational models and interact with them programmatically.
