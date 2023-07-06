@@ -1,7 +1,6 @@
 
 # Jarvis Desktop Assistant
 
-![Jarvis](https://your-image-url.com)
 
 Jarvis Desktop Assistant is an advanced AI-powered voice assistant designed to streamline your daily tasks and provide a seamless user experience. Developed in Python, this cutting-edge project utilizes state-of-the-art technologies such as speech recognition, web browsing, and AI-generated responses to create a powerful and intelligent assistant.
 
