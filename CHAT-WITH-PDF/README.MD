@@ -31,6 +31,3 @@ Ask Your PDF was created to enable users to easily extract and analyze text from
 ## Price Estimation
 The price for using this project is subject to the response size provided by the OpenAI language model. As the response size may vary depending on the complexity of the question and the PDF document, the cost will also differ accordingly. Please refer to OpenAI's pricing documentation for more information on their pricing structure.
 
-Please note that the code is not included in this README file. Make sure to check the source code file for implementation details.
-
-For any further inquiries or assistance, please don't hesitate to reach out.
