@@ -1,4 +1,4 @@
-# Chat with Multiple PDFs
+# 📚 Chat with Multiple PDFs
 
 ## About the Project
 
@@ -44,7 +44,7 @@ We extend our sincere gratitude to the developers and contributors of the follow
 
 - [Streamlit](https://streamlit.io/)
 - [PyPDF2](https://github.com/mstamy2/PyPDF2)
-- [langchain](https://github.com/your-langchain-repo)
+- [langchain](https://github.com/your-langchain-repo) *(Replace with the actual link to the langchain library)*
 - [dotenv](https://github.com/theskumar/python-dotenv)
 
 ## License
