@@ -1,4 +1,3 @@
-**GitHub README for "Your Own ChatGpt 🤖" Project**
 
 # Your Own ChatGpt 🤖
 
