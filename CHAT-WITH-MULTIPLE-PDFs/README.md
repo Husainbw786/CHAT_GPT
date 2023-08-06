@@ -4,6 +4,9 @@
 
 The **Chat with Multiple PDFs** project is a powerful tool that allows users to engage in a conversational chat with multiple PDF documents. By integrating advanced natural language processing and retrieval models, users can seamlessly ask questions related to the content of their uploaded PDFs and receive relevant responses in real-time.
 
+## Demo
+https://github.com/Husainbw786/Open_AI/assets/89205542/39d12ca3-0612-479d-9579-84b1856f29bf
+
 ## Key Features
 
 - **PDF Text Extraction:** The project offers a robust PDF text extraction capability, enabling users to extract text from multiple PDF documents effortlessly.
